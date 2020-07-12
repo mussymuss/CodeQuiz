@@ -27,7 +27,7 @@ input[type="text"] {
 }
 
 body{
-    background-image:url(/assets/images/K7NcO1.gif) ;
+    background-image:url(/CodeQuiz/assets/images/K7NcO1.gif) ;
     background-repeat: no-repeat;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -180,7 +180,7 @@ img.resize {
 
 @media (min-width:695px){
     body{
-        background-image:url(/assets/images/K7NcO1.gif) ;
+        background-image:url(/CodeQuiz/assets/images/K7NcO1.gif) ;
         background-repeat: no-repeat;
         -webkit-background-size: cover;
         -moz-background-size: cover;
