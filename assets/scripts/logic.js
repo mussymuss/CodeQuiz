@@ -101,7 +101,7 @@ function getQuestion() {
       }
   
       // update time
-      timer.textContent = time;
+      timer.textContent = "Score: " + time;
     }
   
 
